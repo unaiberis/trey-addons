@@ -24,7 +24,7 @@
     'website': 'https://www.trey.es',
     'license': 'AGPL-3',
     'category': 'Invoicing & Payments',
-    'version': '12.0.1.4.1',
+    'version': "14.0.1.0.0",
     'depends': [
         'account_payment_sale',
         'payment',
